@@ -1,0 +1,24 @@
+html {
+	margin: 15px;
+	padding: 15px;
+	background-color: #ddd
+	}
+#intro {
+	display: inline-block;
+	margin-right: 1em;
+	}
+h2, h3 {
+		margin: 0;
+}
+h1{
+	text-align: center;
+}
+img {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		border-radius: 8px;
+		max-width: 100%;
+  		height: auto;
+	}
+	  
